@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [RFCs for changes to blockchain world](README.md)
 
