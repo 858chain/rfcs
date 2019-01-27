@@ -4,5 +4,7 @@ The Eight Fifty Eight blockchain technologies is OpenSource technical team, it f
 
 RFCs Checklist
 
-* \*\*\*\*[**Go-Ethereum Enhancement Planning**](go-ethereum-enhancement-planning.md)\*\*\*\*
+* [Go-Ethereum Enhancement Planning](go-ethereum-enhancement-planning.md)
+
+
 
