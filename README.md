@@ -1,4 +1,8 @@
 # RFCs for changes to blockchain world
 
-858Chain RFCs will write and collect world-class blockchain tech docs on here, it help our customers can reference asap.
+The Eight Fifty Eight blockchain technologies is OpenSource technical team, it focus on provide new hybrid blockchain service to blockchain customer. all RFCs defined our service list. That's all.
+
+RFCs Checklist
+
+* \*\*\*\*[**Go-Ethereum Enhancement Planning**](go-ethereum-enhancement-planning.md)\*\*\*\*
 
