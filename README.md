@@ -6,6 +6,7 @@ RFCs Checklist
 
 * [Go-Ethereum Enhancement Planning](go-ethereum-enhancement-planning.md)
 * [Enterprise-Grade Hybrid Blockchain Platform](0002-enterprise-grade-hybrid-blockchain-platform.md)
+* [Multicurrency mobile wallet Multicoin cryptocurrency wallet](0003-multicoin-cryptocurrency-wallet.md)
 
 
 
